@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali Mirdad 😃</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🔭 I’m currently working on [Progress App(MERN)](https://github.com/Mirdad1224/progress_front)
+- 🔭 I’m currently working on [GOAT App](https://github.com/Mirdad1224/Next_full_GOAT)
 
 - 🌱 I’m currently learning **design patterns in react**
 
